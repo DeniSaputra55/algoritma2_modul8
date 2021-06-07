@@ -26,7 +26,7 @@ public class BinarryTreeApp {
      
      System.out.print("Traveral dengan preorder ");
      tree.preOrder();
-     System.out.print("\nTraveral dengan inorder ");
+     System.out.print("\nTraveral dengan postorder ");
      tree.postOrder();
      System.out.print("\nTraveral dengan inorder ");
      tree.inOrder();
